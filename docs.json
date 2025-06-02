@@ -35,6 +35,10 @@
         ]
       },
       {
+        "tab": "PetStore",
+        "openapi": "https://petstore.swagger.io/v2/swagger.json"
+      },
+      {
         "tab": "API Reference",
         "groups": [
           {
